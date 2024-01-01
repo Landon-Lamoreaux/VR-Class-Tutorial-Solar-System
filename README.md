@@ -1,0 +1,1 @@
+This is a Unity VR project that puts you in the middle of the solar system. You can watch and interact with the planets as they move around the sun. To use it you will need the Unity engine/platform and a VR headset.
